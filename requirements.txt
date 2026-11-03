@@ -1,0 +1,7 @@
+aiogram>=3.31
+anthropic>=2.4
+fastapi>=0.162
+httpx
+uvicorn
+pytest
+playwright
